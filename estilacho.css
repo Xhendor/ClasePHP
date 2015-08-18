@@ -1,0 +1,29 @@
+h1{
+    font-size: 22px;
+    color:yellow;
+}
+
+#A_{color:red}
+
+#B_{color:green}
+#C_:hover{color:red}
+#D_:active{color:red}
+body{
+    
+    background: lightgray;
+}
+
+
+/*div > h1{font-family: fantasy;font-size: 30px; text-align: center}
+
+div + h1{
+    color: red;font-family: fantasy;font-size: 30px; text-align: center}
+
+div * h1{
+    color: red;font-family: fantasy;font-size: 30px; text-align: center}
+
+    */
+
+
+div + h1{
+    color: red;font-family: fantasy;font-size: 30px; text-align: center}
